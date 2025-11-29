@@ -20,12 +20,6 @@ const devProfile = new DeveloperProfile({
 devProfile.getDeveloperInfo();
 ```
 
-### GitHub Analytics:
-
-[![Diana Martine's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martineoficial&layout=donut&title_color=FF66C4&text_color=f2f2f2&bg_color=0D0126&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### Contact
 
 - **Email:**  
