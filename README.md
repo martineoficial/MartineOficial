@@ -15,7 +15,7 @@ class DeveloperProfile {
 }
 const devProfile = new DeveloperProfile({
   name: "Diana Martine",
-  role: "Software Engineering Analyst",
+  role: "Software Engineering Specialist",
 });
 devProfile.getDeveloperInfo();
 ```
